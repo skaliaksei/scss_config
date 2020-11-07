@@ -1,0 +1,22 @@
+{
+  "name": "webpack-scss",
+  "version": "1.0.0",
+  "description": "Package for quick start with SCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skaliaksei/scss_config.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Aliaksei Skakun <skaliaksei@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skaliaksei/scss_config/issues"
+  },
+  "homepage": "https://github.com/skaliaksei/scss_config#readme"
+}
