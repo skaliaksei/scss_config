@@ -1,0 +1,12 @@
+$size: 20px;
+$color1: red;
+
+body {
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    h1 {
+        font-size: $size;
+        color: $color1;
+    }
+}

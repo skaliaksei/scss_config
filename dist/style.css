@@ -1,0 +1,9 @@
+body {
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+}
+body h1 {
+  font-size: 20px;
+  color: red;
+}
